@@ -1,0 +1,11 @@
+{
+  "name": "water-common",
+  "version": "0.0.2",
+  "description": "",
+  "author": "",
+  "private": true,
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "scripts": {},
+  "dependencies": {}
+}
